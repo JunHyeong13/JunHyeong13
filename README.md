@@ -1,4 +1,8 @@
-## 👋Hi there!
+<div align="center"> 
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello%World!&fontColor=9384D1)
+
+## Introduction 
 I'm VR developer using Vive pro & Hololens2 ⚡
 
 ## Technical Skills & Languages
