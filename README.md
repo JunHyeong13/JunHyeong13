@@ -32,5 +32,3 @@ For key technology stacks, they are as follows.
 
 ## Here's My Recent Work Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunHyeong13&show_icons=true&theme=radical)
-
-## My Project
