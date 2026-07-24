@@ -75,16 +75,12 @@
 
 <h2 align="center">GitHub Analytics</h2>
 
-<div align="center">
-
-<a href="https://github.com/JunHyeong13">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JunHyeong13&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=false&border_radius=8" alt="JunHyeong13 GitHub statistics" />
-</a>
-<a href="https://github.com/JunHyeong13?tab=repositories">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunHyeong13&layout=compact&theme=tokyonight&langs_count=8&hide_border=false&border_radius=8" alt="JunHyeong13 most used languages" />
-</a>
-
-</div>
+| Category | Overview |
+|---|---|
+| Primary Fields | Medical AI · Computer Vision · HCI · Web · XR |
+| Main Languages | Python · C# · TypeScript |
+| Development Focus | Deep Learning · Medical Image Analysis · Motion Analysis · Interactive Services |
+| Repositories | [View all public projects](https://github.com/JunHyeong13?tab=repositories) |
 
 <h2 align="center">Creative Tools</h2>
 
