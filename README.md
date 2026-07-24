@@ -78,10 +78,16 @@
 <div align="center">
 
 <a href="https://github.com/JunHyeong13">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JunHyeong13&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=12&title_color=A78BFA&icon_color=38BDF8" alt="JunHyeong13's GitHub Stats" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunHyeong13&theme=tokyonight" alt="JunHyeong13 GitHub activity summary" />
+</a>
+
+<br />
+
+<a href="https://github.com/JunHyeong13">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunHyeong13&theme=tokyonight" alt="JunHyeong13 GitHub statistics" />
 </a>
 <a href="https://github.com/JunHyeong13?tab=repositories">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunHyeong13&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=12&title_color=A78BFA" alt="JunHyeong13's Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunHyeong13&theme=tokyonight" alt="JunHyeong13 repositories by language" />
 </a>
 
 </div>
