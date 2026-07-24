@@ -78,16 +78,10 @@
 <div align="center">
 
 <a href="https://github.com/JunHyeong13">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunHyeong13&theme=tokyonight" alt="JunHyeong13 GitHub activity summary" />
-</a>
-
-<br />
-
-<a href="https://github.com/JunHyeong13">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunHyeong13&theme=tokyonight" alt="JunHyeong13 GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JunHyeong13&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=false&border_radius=8" alt="JunHyeong13 GitHub statistics" />
 </a>
 <a href="https://github.com/JunHyeong13?tab=repositories">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunHyeong13&theme=tokyonight" alt="JunHyeong13 repositories by language" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunHyeong13&layout=compact&theme=tokyonight&langs_count=8&hide_border=false&border_radius=8" alt="JunHyeong13 most used languages" />
 </a>
 
 </div>
