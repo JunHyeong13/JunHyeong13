@@ -72,8 +72,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunHyeong13&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=7F52FF" alt="Top Languages" />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JunHyeong13&show_icons=true&theme=transparent&hide_border=true&title_color=7F52FF&icon_color=31A8FF" alt="GitHub Stats" />
+<a href="https://github.com/JunHyeong13">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JunHyeong13&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=12&title_color=A78BFA&icon_color=38BDF8" alt="JunHyeong13's GitHub Stats" />
+</a>
+<a href="https://github.com/JunHyeong13?tab=repositories">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunHyeong13&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=12&title_color=A78BFA" alt="JunHyeong13's Top Languages" />
+</a>
 
 </div>
 
