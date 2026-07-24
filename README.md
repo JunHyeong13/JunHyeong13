@@ -1,6 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:31A8FF&height=180&section=header&text=JunHyeong%27s%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="JunHyeong's GitHub" />
+<h1>JunHyeong's GitHub</h1>
+
+<p>
+  <img width="48%" src="https://i.pinimg.com/originals/0a/97/82/0a97824d55a4dd9ef3881fdaeea64b88.gif" alt="Animated header GIF 1" />
+  <img width="48%" src="https://i.pinimg.com/originals/1a/c7/a9/1ac7a9f5ebc3ea789b0bc41185bb975f.gif" alt="Animated header GIF 2" />
+</p>
 
 ### AI · HCI · Web Developer
 
